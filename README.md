@@ -1,0 +1,2 @@
+# FRTproject
+sample static website
